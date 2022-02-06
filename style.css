@@ -1,0 +1,40 @@
+body {
+  font-family: "Rowdies", cursive;
+}
+.box {
+  display: flex;
+  height: 600px;
+  padding-bottom: 100px;
+}
+.content {
+  border-radius: 20px;
+  box-shadow: 10px 10px 30px;
+  padding: 2%;
+  width: 30%;
+  text-align: center;
+}
+.content img {
+  width: 100%;
+}
+.content p {
+  color: rgb(71, 68, 68);
+}
+.part1 {
+  margin: 5% 2.5% 5% 10%;
+}
+.part2 {
+  margin: 5% 2.5% 5% 2.5%;
+}
+.part3 {
+  margin: 5% 10% 5% 2.5%;
+}
+footer {
+  height: 250px;
+  padding-top: 30px;
+  text-align: center;
+  background-color: black;
+  color: grey;
+}
+span {
+  color: orange;
+}
